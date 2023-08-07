@@ -1,0 +1,26 @@
+{
+  "name": "panama-visa-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rigojr/panama-visa-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rigojr/panama-visa-bot/issues"
+  },
+  "homepage": "https://github.com/rigojr/panama-visa-bot#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "logger": "^0.0.1"
+  }
+}
